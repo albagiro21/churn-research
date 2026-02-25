@@ -65,11 +65,6 @@ churn-research/
 │   └── 03_model_selection.ipynb
 │                               # Model comparison (LR, RF, XGBoost) + SHAP
 │
-├── src/
-│   ├── preprocessing.py        # ColumnTransformer and preprocessing logic
-│   ├── pipeline.py             # Model pipeline definitions
-│   ├── train.py                # Reproducible training script
-│   └── evaluate.py             # Evaluation utilities and metrics
 │
 ├── models/                     # Serialized trained pipelines
 │
